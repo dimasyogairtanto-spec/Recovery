@@ -48,4 +48,4 @@ title              recovery
 versions       archiso
 linux             /efi/recovery/vmlinuz-linux
 initrd          /efi/recovery/initramfs-linux.img
-options      archisobasedir=efi/recovery archisolable=BOOT copytoram
+options      archisobasedir=efi/recovery archisolabel=BOOT copytoram
