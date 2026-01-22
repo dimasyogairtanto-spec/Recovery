@@ -15,7 +15,7 @@ mkfs.ext4 -b 4096 /dev/[path]
 Mkdir /mnt/home
 ```
 ```
-Mount /Dev/[path] /mnt
+Mount /Dev/[path] /mnt/home
 ```
 5. Install  package
 ```
@@ -85,7 +85,7 @@ nvim /etc/cmdlins.d/06-misc.conf
 ```
 Tambahkan
 ```
-rw quite
+rw quiet
 ```
 
 
